@@ -1,4 +1,4 @@
-# Recent Counter
+#  Number of Recent Calls
 
 ## Problem Description
 
